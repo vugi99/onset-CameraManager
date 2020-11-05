@@ -1,2 +1,3 @@
 # onset-CameraManager
-A library to spawn cameras and screens in the world
+
+### [Wiki](https://github.com/vugi99/onset-CameraManager/wiki)
